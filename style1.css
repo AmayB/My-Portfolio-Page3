@@ -1,0 +1,21 @@
+h1{
+    color: rgb(0, 116, 0);
+    border:ridge;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header{
+    background-color: lightblue;
+    margin-left:50px;
+}
+
+p,h2{
+    margin-left:60px;
+    background-color:rgb(255, 246, 164);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color:lemonchiffon;
+    border:outset;
+}
